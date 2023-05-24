@@ -1,3 +1,3 @@
-n=int(input())
-area=3.14*n*n
-print(round(area,2))
+a=int(input())
+ar=3.14*a*a
+print("%.2f"%(ar))
